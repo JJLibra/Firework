@@ -2,9 +2,9 @@
 <br>
 <img src="https://raw.githubusercontent.com/Wayoung7/firework-rs/master/gif/demo_0.gif" alt="gif" width="800">
 <br>
-<br>
+<!-- <br>
 Firework-rs
-<br>
+<br> -->
 </h1>
 
 <!-- <p align="center">
