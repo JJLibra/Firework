@@ -7,7 +7,7 @@ Firework-rs
 <br>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://crates.io/crates/firework-rs"><img alt="crates.io" src="https://img.shields.io/crates/v/firework-rs.svg"></a>
 <a><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
@@ -231,7 +231,7 @@ It is recommanded to use terminal that has GPU rendering acceleration, like [Kit
 
 ## Help
 
-Feel free to open an issue or contact me if you find any bugs.
+Feel free to open an issue or contact me if you find any bugs. -->
 
 
 
